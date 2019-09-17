@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">PokePals</string>
+    <string name="pokemonspriteimg">pokemonSpriteImg</string>
+    <string name="nameTxt">name</string>
+    <string name="spDefTxt">spDefTxt</string>
+    <string name="spAttackTxt">spAttackTxt</string>
+    <string name="defTxt">defTxt</string>
+    <string name="attackTxt">attackTxt</string>
+    <string name="hpTxt">hpTxt</string>
+    <string name="heldTxt">heldTxt</string>
+    <string name="typeTxt">typeTxt</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="held_item">Held Item:</string>
+    <string name="hp">HP:</string>
+    <string name="defense">Defense:</string>
+    <string name="attack">Attack:</string>
+    <string name="special_attack">Special Attack:</string>
+    <string name="special_defense">Special Defense:</string>
+    <string name="trainerName">trainerName</string>
+    <string name="TrainerImg">trainerImg</string>
+    <string name="trainer_card">TRAINER CARD</string>
+    <string name="pokedex">POKeDEX:</string>
+    <string name="cardName">NAME:</string>
+    <string name="money">MONEY:</string>
+    <string name="time">TIME:</string>
+    <string name="idno">IDNo.</string>
+    <string name="idTxt">IDNo.   001</string>
+    <string name="moneyTxt">P5000</string>
+    <string name="pokesKnown">6</string>
+    <string name="timeTxt">0:00</string>
+    <string name="welcome_trainer">Welcome Trainer!</string>
+    <string name="welcomeParagraph">In a typical Pokemon game, you battle and grind your way to the top to become the best pokemon trainer.
+        What if you just want friendship instead? PokePals addresses this issue.
+        Add your info below and click the button below to meet six of your new best friends!</string>
+    <string name="please_fill_out_your_trainer_card">Fill Out Your Trainer Card!</string>
+    <string name="nameQuestionTxt">What is your name?</string>
+    <string name="boyLbl">Boy</string>
+    <string name="girlTxt">Girl</string>
+    <string name="genderQuestionLbl">Are you a Boy or a Girl?</string>
+    <string name="generate_trainer_card">Generate Trainer Card</string>
+    <string name="generate_team">Generate Team!</string>
+    <string name="get_a_new_team">Get a new team?</string>
+    <string name="moreInfoTxt">Click me to find out more info!</string>
+    <string name="view_all_pokes">View All Pokes</string>
+    <string name="read_error">error</string>
+    <string name="connect_error">connection error</string>
+    <string name="credit">Credit Where Credit is Due: Huge thank you to PokeApi for providing all of the information of the pokemon, including their sprites,
+        and to the pokemon wikia page for hosting the male and female trainer images.
+    https://pokeapi.co/</string>
+</resources>

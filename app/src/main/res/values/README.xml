@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- No actual values here, just an explanation
+The user opens up to the welcome screen which asks their gender and name
+It then takes them to their trainer ID card and shows the appropriate name and picture
+There, they generate a random team of 6 pokemon
+It then takes them to a view which shows the pokemon with their sprite, name, and ability
+If they click any of the pokemon, they get a more detailed view
+There they can click a button which shows all pokemon they have ever owned within the application
+Again, if they click any of them, they get a more detailed view
+-->
+<resources></resources>
